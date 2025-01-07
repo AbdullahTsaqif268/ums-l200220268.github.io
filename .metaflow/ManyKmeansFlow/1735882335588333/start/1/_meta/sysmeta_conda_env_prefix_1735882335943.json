@@ -1,0 +1,1 @@
+{"flow_id": "ManyKmeansFlow", "run_number": "1735882335588333", "step_name": "start", "task_id": "1", "field_name": "conda_env_prefix", "type": "conda_env_prefix", "value": "metaflow/linux-64/9b994a643b76930", "tags": ["attempt_id:0"], "user_name": "tsaqif", "ts_epoch": 1735882335943}

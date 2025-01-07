@@ -1,0 +1,5 @@
+[MFLOG|0|2025-01-03T05:50:30.324371Z|runtime|c993c65e-011b-4d00-b751-e1d3496df620]<flow ManyKmeansFlow step start> failed:
+[MFLOG|0|2025-01-03T05:50:30.335449Z|runtime|99772e3b-679a-479f-b5d1-4b5737a0d861]    Flow failed:
+[MFLOG|0|2025-01-03T05:50:30.335895Z|runtime|461a1ce1-d0a0-4490-a798-63124c42394f]    You need to install 'boto3' in order to use S3.
+[MFLOG|0|2025-01-03T05:50:30.403971Z|runtime|fbf73048-347d-4a0e-a983-f3d1f8ff7746]
+[MFLOG|0|2025-01-03T05:50:30.404979Z|runtime|800caefc-65b5-4de6-b85f-5d55293e263a]Task failed.
